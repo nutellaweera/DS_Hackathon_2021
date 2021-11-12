@@ -17,6 +17,8 @@ empty_val_df= df[df[df.columns].isnull().all(axis=1)]
 all_df.to_csv('complete.csv')
 empty_val_df.to_csv('incomplete.csv')
 
+print(complete_cols)
+
 # for index,row in df.iterrows():
 #     complete = True
 #     for col in incomplete_cols:
