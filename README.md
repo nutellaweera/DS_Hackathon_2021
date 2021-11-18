@@ -6,4 +6,5 @@ Scripts and random experiments for the TrueCue Women in Data Science Hackathon 2
 - Hackathon dataset - TrueCue - https://github.com/joseph-TC/WD_Hackathon_repo
 - Population - Gapminder - https://www.gapminder.org/topics/population-forecasts/
 - Literacy - Harvard Business School - https://www.hbs.edu/businesshistory/courses/resources/historical-data-visualization/Pages/data-and-sources.aspx 
-- Life expectancy - Our World In Data - https://ourworldindata.org/life-expectancy
+- Life expectancy - Our World in Data - https://ourworldindata.org/life-expectancy
+- Human Development Index (HIHD) - Our World in Data - https://ourworldindata.org/human-development-index
