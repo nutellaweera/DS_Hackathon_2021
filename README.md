@@ -8,3 +8,4 @@ Scripts and random experiments for the TrueCue Women in Data Science Hackathon 2
 - Literacy - Harvard Business School - https://www.hbs.edu/businesshistory/courses/resources/historical-data-visualization/Pages/data-and-sources.aspx 
 - Life expectancy - Our World in Data - https://ourworldindata.org/life-expectancy
 - Human Development Index (HIHD) - Our World in Data - https://ourworldindata.org/human-development-index
+- CO2, emissions - World Bank Data Bank - https://data.worldbank.org/indicator/EN.ATM.CO2E.PC
