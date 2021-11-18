@@ -1,5 +1,6 @@
 # DS_Hackathon_2021
-Scripts and random experiments for the TrueCue Women in Data Science Hackathon 2021.
+Scripts and random experiments for the [TrueCue Women+Data Hackathon 2021](https://truecue.com/womenindata/hackathon-2021/).
+Contains a collection of supporting datasets to complement the recommended dataset, some python scripts for cleaning and formatting and some simple graphs with matplotlib+seaborn. 
 
 ### Datasets/sources
 - Hackathon dataset - TrueCue - https://github.com/joseph-TC/WD_Hackathon_repo
