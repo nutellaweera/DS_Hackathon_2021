@@ -14,4 +14,5 @@ def gen_share_co2_over_time_by_pop():
     graph = sns.scatterplot(data=filtered, x="year", y="share_global_co2", hue="country", size="population", sizes=(20,800))
     graph.set_ylabel("Share of global CO2 (%)")
     plt.savefig("Graphs/share_of_global_co2_over_time_bubble.png")
-    #plt.show()
+    plt.show()
+gen_share_co2_over_time_by_pop()
