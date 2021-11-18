@@ -20,4 +20,4 @@ def gen_missing_data():
     colours = ['#000099', '#ffff00'] # yellow = missing data.
     sns.heatmap(df[cols].isnull(), cmap=sns.color_palette(colours))
     plt.savefig("Graphs/truecue_missing_data.png")
-    plt.show()
+    #plt.show()

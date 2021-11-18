@@ -11,4 +11,4 @@ def gen_human_dev_idx_over_time():
     graph = sns.relplot(data=hdi_wide_form.transpose(), kind="line")
     graph.set_ylabels("HDI")
     plt.savefig('Graphs/human_dev_index_over_time.png')
-    plt.show()
+    #plt.show()

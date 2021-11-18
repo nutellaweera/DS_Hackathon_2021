@@ -11,4 +11,4 @@ def gen_life_ex_over_time():
     graph = sns.relplot(data=life_wide.transpose(), kind="line")
     graph.set_ylabels("Life expectancy (years)")
     plt.savefig('Graphs/life_expectancy_over_time.png')
-    plt.show()
+    #plt.show()

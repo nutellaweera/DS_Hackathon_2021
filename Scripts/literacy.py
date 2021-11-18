@@ -12,4 +12,4 @@ def gen_literacy_over_time():
     graph.set_ylabels("Literacy rate (%)")
     graph.set_xticklabels(step=5)
     plt.savefig('Graphs/literacy_over_time.png')
-    plt.show()
+    #plt.show()
