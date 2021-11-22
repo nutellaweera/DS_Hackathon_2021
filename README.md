@@ -23,6 +23,10 @@ Share of global co2 emissions of four selected countries over time with populati
 Combination of two datasets, facet grid of four countries share of global population vs share of emissions over time (1900-2000)
 ![share-emissions-vs-population](Graphs/share_of_population_vs_emissions.png)
 
+#### Share of population vs share of emissions, selected years
+Combination of the same two datasets, for a subsection of years to more clearly portray changes over time
+![share_of_population_vs_emissions_selected_years](Graphs/share_of_population_vs_emissions_selected_years.png)
+
 #### Literacy over time
 Literacy rates of four selected countries over time (1900-2000)
 ![literacy-over-time](Graphs/literacy_over_time.png)

@@ -8,6 +8,7 @@ def gen_all():
     missing_data.gen_missing_data()
     emissions.gen_share_co2_over_time_by_pop()
     emission_facetgrid.gen_share_emissions_vs_population()
+    emission_facetgrid_selective.gen_selected_years_emission_vs_pop()
     print("done")
 
 gen_all()
